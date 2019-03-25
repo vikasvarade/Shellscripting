@@ -1,0 +1,4 @@
+# Display the username
+
+USER_NAME=$(id -un)
+echo "Your username is ${USER_NAME} " 
