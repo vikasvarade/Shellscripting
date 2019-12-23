@@ -13,8 +13,4 @@ else
 fi
 
 
-ls -ltr
-netstat -a
-
-
 
